@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/social-media-app-as-like-facebook/static/css/main.37a90537.css",
+    "main.js": "/social-media-app-as-like-facebook/static/js/main.b39d6d45.js",
+    "static/media/profile.jpg": "/social-media-app-as-like-facebook/static/media/profile.ec45aea41afe06a283ed.jpg",
+    "index.html": "/social-media-app-as-like-facebook/index.html",
+    "main.37a90537.css.map": "/social-media-app-as-like-facebook/static/css/main.37a90537.css.map",
+    "main.b39d6d45.js.map": "/social-media-app-as-like-facebook/static/js/main.b39d6d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a90537.css",
+    "static/js/main.b39d6d45.js"
+  ]
+}
